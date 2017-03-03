@@ -22,8 +22,8 @@ Left hip / Cadera izquierda: -3
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 
-const char* ssid = "anacleta3456";
-const char* password = "Cachito3017";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxxx";
 
 #include <Servo.h>
 #include <Oscillator.h>
